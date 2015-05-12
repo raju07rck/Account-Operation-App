@@ -1,0 +1,9 @@
+G:\Basis .net\Git project\AccountOperationApp\AccountOperationApp\bin\Debug\AccountOperationApp.exe.config
+G:\Basis .net\Git project\AccountOperationApp\AccountOperationApp\bin\Debug\AccountOperationApp.exe
+G:\Basis .net\Git project\AccountOperationApp\AccountOperationApp\bin\Debug\AccountOperationApp.pdb
+G:\Basis .net\Git project\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.csprojResolveAssemblyReference.cache
+G:\Basis .net\Git project\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.accountOperationUI.resources
+G:\Basis .net\Git project\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.Properties.Resources.resources
+G:\Basis .net\Git project\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.csproj.GenerateResource.Cache
+G:\Basis .net\Git project\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.exe
+G:\Basis .net\Git project\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.pdb
