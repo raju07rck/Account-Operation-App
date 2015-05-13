@@ -34,12 +34,6 @@ namespace AccountOperationApp
         {
             double amount = Convert.ToDouble(amountTextBox.Text);
 
-            //if (amountTextBox.Text == (string.Empty)))
-            //{
-            //    MessageBox.Show("This is not deposit empty");
-            //}
-
-            //else 
             if (amount <= 0)
             {
                 MessageBox.Show("This is not deposit amount");

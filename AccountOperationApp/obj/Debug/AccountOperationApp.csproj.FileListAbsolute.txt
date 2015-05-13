@@ -7,3 +7,12 @@ G:\Basis .net\Git project\AccountOperationApp\AccountOperationApp\obj\Debug\Acco
 G:\Basis .net\Git project\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.csproj.GenerateResource.Cache
 G:\Basis .net\Git project\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.exe
 G:\Basis .net\Git project\AccountOperationApp\AccountOperationApp\obj\Debug\AccountOperationApp.pdb
+E:\Ashik\github\Account-Operation-App\AccountOperationApp\bin\Debug\AccountOperationApp.exe.config
+E:\Ashik\github\Account-Operation-App\AccountOperationApp\obj\Debug\AccountOperationApp.exe
+E:\Ashik\github\Account-Operation-App\AccountOperationApp\obj\Debug\AccountOperationApp.pdb
+E:\Ashik\github\Account-Operation-App\AccountOperationApp\bin\Debug\AccountOperationApp.exe
+E:\Ashik\github\Account-Operation-App\AccountOperationApp\bin\Debug\AccountOperationApp.pdb
+E:\Ashik\github\Account-Operation-App\AccountOperationApp\obj\Debug\AccountOperationApp.csprojResolveAssemblyReference.cache
+E:\Ashik\github\Account-Operation-App\AccountOperationApp\obj\Debug\AccountOperationApp.accountOperationUI.resources
+E:\Ashik\github\Account-Operation-App\AccountOperationApp\obj\Debug\AccountOperationApp.Properties.Resources.resources
+E:\Ashik\github\Account-Operation-App\AccountOperationApp\obj\Debug\AccountOperationApp.csproj.GenerateResource.Cache
